@@ -1,0 +1,2 @@
+Sorry about this if it's a hunk of unreadable spaggetti code I'm not sure how I was supposed to translate the wiki pseudocode into a managed code implementation so I got
+weird with another class and stuffed everything into it so it can be returned from functions as a single variable.. 
